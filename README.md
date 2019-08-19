@@ -1,4 +1,4 @@
-# flutter_todo_app
+# flutter_personal_expenses
 
 A new Flutter project.
 
